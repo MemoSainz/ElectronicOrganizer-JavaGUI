@@ -1,4 +1,5 @@
-## Electronic Organizer
+<div align="center"> 
+  ## Electronic Organizer </div>
 
 > [!IMPORTANT]
 > This is a project, an app of the classical agendas or organizers in the past. Which is kinda nostalgic for the ones in the 80's & 90's
