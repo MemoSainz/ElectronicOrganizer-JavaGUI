@@ -7,6 +7,15 @@
 >
 > This project is all lefts reserved.... yes, you can fork it, of course!
 
+
+<div align="center"> 
+  
+  ## Agenda Electrónica </div>
+> [!IMPORTANT]
+> Un proyecto (en inglés), basado en las viejas agendas. Es un poco nostálgico para aquellos de los años 80's y 90's.
+>
+> Tiene izquierdos reservados... sí, le puedes hacer fork!
+
 <img src="https://i.imgur.com/zTvUPZY.png">
 
 
