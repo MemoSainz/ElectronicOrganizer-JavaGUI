@@ -5,7 +5,7 @@
 >
 > This project is all lefts reserved.... yes, you can fork it, of course!
 
-<img src="https://i.imgur.com/Acs1KLo.png">
+<img src="https://i.imgur.com/zTvUPZY.png">
 
 
 
