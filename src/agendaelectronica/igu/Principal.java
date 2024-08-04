@@ -148,7 +148,7 @@ public class Principal extends javax.swing.JFrame {
         btnGuardar.setBackground(new java.awt.Color(102, 102, 102));
         btnGuardar.setFont(new java.awt.Font("Fira Code SemiBold", 0, 18)); // NOI18N
         btnGuardar.setForeground(new java.awt.Color(255, 255, 255));
-        btnGuardar.setText("Guardar");
+        btnGuardar.setText("Save");
         btnGuardar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnGuardarActionPerformed(evt);
@@ -228,7 +228,7 @@ public class Principal extends javax.swing.JFrame {
 
         jLabel8.setFont(new java.awt.Font("Fira Code SemiBold", 0, 18)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel8.setText("Índice:");
+        jLabel8.setText("Index");
 
         txtIndice.setEditable(false);
         txtIndice.setFont(new java.awt.Font("Fira Code", 0, 18)); // NOI18N
